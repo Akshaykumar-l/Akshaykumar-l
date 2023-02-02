@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Akshaykumar
 - 👀 I’m interested in Data science , Machine leaning stuff
-- 🌱 I’m currently learning SQL, Python, Pandas, Matplotlib, PowerBI, Tableau.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SQL, Python, Pandas, Matplotlib, PowerBI, Machine Learning.
 - 📫 How to reach me ...We can connect on linkedin at : https://www.linkedin.com/in/akshay-kumar-0a127981/
 
 <!---
